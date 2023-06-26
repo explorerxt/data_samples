@@ -1,1 +1,1 @@
-# data_samples
+# Few data samples to work with
