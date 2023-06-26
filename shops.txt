@@ -1,0 +1,107 @@
+[
+  {
+    "shop_id": 1,
+    "name": "Fashion Junction",
+    "address": "123 Main Street",
+    "city": "New York",
+    "country": "USA"
+  },
+  {
+    "shop_id": 2,
+    "name": "Home Essentials",
+    "address": "456 Elm Avenue",
+    "city": "Los Angeles",
+    "country": "USA"
+  },
+  {
+    "shop_id": 3,
+    "name": "Tech World",
+    "address": "789 Oak Road",
+    "city": "San Francisco",
+    "country": "USA"
+  },
+  {
+    "shop_id": 4,
+    "name": "Beauty Haven",
+    "address": "234 Maple Lane",
+    "city": "London",
+    "country": "UK"
+  },
+  {
+    "shop_id": 5,
+    "name": "Gourmet Delights",
+    "address": "567 Cherry Avenue",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "shop_id": 6,
+    "name": "Sports Emporium",
+    "address": "890 Walnut Street",
+    "city": "Toronto",
+    "country": "Canada"
+  },
+  {
+    "shop_id": 7,
+    "name": "Tech Solutions",
+    "address": "123 Pine Road",
+    "city": "Berlin",
+    "country": "Germany"
+  },
+  {
+    "shop_id": 8,
+    "name": "Health Corner",
+    "address": "456 Cedar Avenue",
+    "city": "Sydney",
+    "country": "Australia"
+  },
+  {
+    "shop_id": 9,
+    "name": "Book Haven",
+    "address": "789 Spruce Lane",
+    "city": "Tokyo",
+    "country": "Japan"
+  },
+  {
+    "shop_id": 10,
+    "name": "Outdoor Gear",
+    "address": "234 Oak Street",
+    "city": "Vancouver",
+    "country": "Canada"
+  },
+  {
+    "shop_id": 11,
+    "name": "Home Decor",
+    "address": "567 Elm Road",
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  {
+    "shop_id": 12,
+    "name": "Fashion Boutique",
+    "address": "890 Maple Avenue",
+    "city": "Milan",
+    "country": "Italy"
+  },
+  {
+    "shop_id": 13,
+    "name": "Electronics Galore",
+    "address": "123 Cherry Lane",
+    "city": "Sydney",
+    "country": "Australia"
+  },
+  {
+    "shop_id": 14,
+    "name": "Pet Paradise",
+    "address": "456 Oak Road",
+    "city": "New York",
+    "country": "USA"
+  },
+  {
+    "shop_id": 15,
+    "name": "Jewelry Gems",
+    "address": "789 Pine Avenue",
+    "city": "Paris",
+    "country": "France"
+  }
+]
